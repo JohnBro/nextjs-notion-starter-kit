@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e4234c0de85e45b59d8699e4a4a1702c',
+  rootNotionPageId: '85bb923c7ffa4d60b2b5a7c9bb03f856',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Johnbro 的博客',
-  domain: 'https://johnbrop.notion.site/e4234c0de85e45b59d8699e4a4a1702c',
+  domain: 'https://www.notion.so/85bb923c7ffa4d60b2b5a7c9bb03f856',
   author: 'Johnbro',
 
   // open graph metadata (optional)
