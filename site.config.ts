@@ -10,8 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Johnbro 的博客',
-  // domain: 'https://johnbrop.notion.site/e4234c0de85e45b59d8699e4a4a1702c',
-  domain: 'www.johnbro.cn',
+  domain: 'https://johnbrop.notion.site/e4234c0de85e45b59d8699e4a4a1702c',
   author: 'Johnbro',
 
   // open graph metadata (optional)
